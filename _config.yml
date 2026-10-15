@@ -1,2 +1,5 @@
 title: Karan Singh Rana
-logo: /assets/img
+#logo: /assets/profile_picture.jpeg
+#description: Computer Science @ UTD
+show_downloads: true
+theme: jekyll-theme-minimal
